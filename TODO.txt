@@ -1,0 +1,11 @@
+- get list of games to Elm and display it there
+
+
+- join game as spectator
+- receive player info and display it
+- receive ticker and display it
+- receive grid data and display it
+
+
+- join game as player
+- ???
